@@ -3,3 +3,4 @@
 2016-11-21 Nice day come after morning meeting.
 2016-11-23 Finish data analyst p0.
 2016-11-28 Get message!
+2016-11-29 First day.
